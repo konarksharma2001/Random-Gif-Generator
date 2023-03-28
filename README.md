@@ -6,7 +6,7 @@ Generate and display random GIFs with the click of a button
 Search for GIFs using keywords
 Copy GIF URLs to share with friends
 
-##Tech Stack
+## Tech Stack
 * React
 * GIPHY API
 * Custom Hooks
